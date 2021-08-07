@@ -14,7 +14,7 @@ function Apps() {
   const [hc3 , setHc3] = useState([]);
   const [hc5 , setHc5] = useState([]);
   const [hc6 , setHc6] = useState([]);
-  const [hc9 , setHc9] = useState([]);
+  const [hc9 , setHc9] = useState([]);  
 
   useEffect(() => {
     const url = "https://run.mocky.io/v3/04a04703-5557-4c84-a127-8c55335bb3b4";
