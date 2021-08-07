@@ -1,0 +1,17 @@
+.hc9_container {
+    height: 250px;
+    margin-left: 20px;
+    margin-top: 25px;
+    background: #000000;
+    border-radius: 12px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;    
+    flex: 1;
+  }
+
+
+  
+  
+  

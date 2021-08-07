@@ -1,0 +1,20 @@
+.hc6_container {
+  width: 320px;
+  height: 180px;
+  margin-left: 20px;
+  margin-top: 35px;
+  background: grey;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.hc6_title {
+  float: left;
+  margin-top: 30px;
+  margin-left: 80px;
+}
+
+.hc6_arrow {
+  text-align: center;
+  margin-top: 33px;
+}

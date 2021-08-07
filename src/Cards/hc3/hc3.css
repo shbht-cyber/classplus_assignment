@@ -1,0 +1,42 @@
+.hc3_container {
+  position: relative;
+  width: 320px;
+  height: 400px;
+  left: 20px;
+  right: 20px;
+  top: 20px;
+  border-radius: 12px;
+}
+
+.hc3_title {
+  margin-left: 53px;
+  margin-top: 30px;
+  margin-right: 10px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+}
+
+.hc3_description {
+  margin-left: 53px;
+  margin-top: 20px;
+  margin-right: 10px;
+  font-family: Roboto;
+  font-size: 20px;
+}
+
+.hc3_button {
+  margin-left: 53px;
+  margin-top: 20px;
+  width: 120px;
+  border-radius: 6px;
+}
+
+.hc3_button_txt {
+  font-family: Roboto;
+  font-style: normal;
+  font-size: 20px;
+  text-align: center;
+}

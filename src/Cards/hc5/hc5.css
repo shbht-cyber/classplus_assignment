@@ -1,0 +1,21 @@
+.hc5_container {
+  width: 320px;
+  height: 350px;
+  margin-left: 20px;
+  margin-top: 25px;
+
+  border-radius: 12px;
+  text-align: center;
+}
+
+.hc5_title {
+  position: relative;
+  top: 15px;
+  color: white;
+}
+
+.hc5_description {
+  position: relative;
+  top: 20px;
+  color: white;
+}
